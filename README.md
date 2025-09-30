@@ -268,6 +268,6 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-![Snake animation](https://raw.githubusercontent.com/Gsish/Gsish/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 </div>
